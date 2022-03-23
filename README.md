@@ -1,6 +1,6 @@
 # Higher or Lower: Anime Edition
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/13f9c1b8-906b-4a32-9f52-b52af9f6b773/deploy-status)](https://app.netlify.com/sites/higherorlower-anime/deploys)
+https://higherorlower-anime.netlify.app/
 
 Based on the game <http://www.higherlowergame.com/>
 
