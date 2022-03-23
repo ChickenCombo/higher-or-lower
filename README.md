@@ -1,5 +1,7 @@
 # Higher or Lower: Anime Edition
 
+https://higherorlower-anime.netlify.app
+
 Based on the game <http://www.higherlowergame.com/>
 
 Two anime would be given at the start of the game, guess whether the second anime has a higher or lower rating than the first one, repeat until you lose.
