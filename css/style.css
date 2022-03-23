@@ -41,7 +41,6 @@ button:hover {
     transition: 0.2s;
 }
 
-
 .logo:hover {
     transform: scale(1.05);
     filter: drop-shadow(0 0px 10px rgba(0, 0, 0, 0.5));
@@ -166,7 +165,6 @@ button:hover {
     text-shadow: 1px 2px black;
 }
 
-
 .score-bump {
     animation: bump ease 0.5s;
 }
@@ -182,6 +180,25 @@ button:hover {
     font-weight: 900;
     font-size: 22pt;
     margin: 20px 0px 20px 0px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    color: white;
+    transition: 0.2s;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: white;
+    filter: drop-shadow(0 0px 10px rgba(0, 0, 0, 0.5));
 }
 
 #home-container {
